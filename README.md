@@ -8,8 +8,8 @@ This project coded with Python's Selenium framework. The project can send bot to
 ``source venv/bin/activate``  
 ``pip install -r requirements.txt``  
 
-**So in order to run this project;
-You should download the version compatible with your browser version from this address and extract the "chromedriver" file to the main directory of the project.**
+**In order to run this project;**
+You should download the version compatible with your browser version from this address and extract the "chromedriver" file to the main directory of the project.
 https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference
 
 ### How to run:
